@@ -17,7 +17,7 @@ There should be no necessary libraries to run the code beyond the Anaconda distr
 
 ## Project Motivation
 
-The intent of this notebook is to predict churn for the fictional company sparkify using spark.
+The intent of this project is to predict churn for the fictional company Sparkify using Apache Spark.
 
 ### Questions answered in the following:
 - what information are provided in the data?
@@ -28,7 +28,7 @@ The intent of this notebook is to predict churn for the fictional company sparki
 
 ## File Descriptions
 
-The whole process is gathered in the notebook found in this directory. Detailed description regarding the code can be found in markdown cells and comments contained in the notebook.
+The whole process is gathered in the jupyter notebook found in this directory. Detailed description regarding the code can be found in markdown cells and comments contained in the notebook.
 
 ## Results
 
