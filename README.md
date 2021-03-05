@@ -33,5 +33,7 @@ The whole process is gathered in the notebook found in this directory. Detailed 
 ## Results
 
 Most of the results can be found in the notebook. Additional information and formatted results can be found in my Medium post [here](https://spreuhs.medium.com/please-dont-stop-the-music-sparkify-cd5dd10c80b1).
+
 ## Acknowledgements
-Thanks to Udacity for providing the data for their Udacity Data Science Nano Degree.
+
+Thanks to Udacity for providing the data as part of their Data Science Nano Degree.
