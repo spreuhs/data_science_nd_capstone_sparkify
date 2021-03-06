@@ -15,6 +15,13 @@
 
 There should be no necessary libraries to run the code beyond the Anaconda distribution of Python. The code should run without issues using Python versions 3.*.
 
+The following Packages were used in the implementation of the project:
+- Pyspark
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
 ## Project Motivation
 
 The intent of this project is to predict churn for the fictional company Sparkify using Apache Spark.
@@ -33,6 +40,8 @@ The whole process is gathered in the jupyter notebook found in this directory. D
 ## Results
 
 Most of the results can be found in the notebook. Additional information and formatted results can be found in my Medium post [here](https://spreuhs.medium.com/please-dont-stop-the-music-sparkify-cd5dd10c80b1).
+
+A brief summary of the results is that we can predict churn somehow well using a Gradient Boost Tree Classifier. As churn is not very likely, so the dataset is a bit imbalanced. Nonetheless, using thought-out Feature Engineering in combination with the GBT Model leads to somewhat reliable results.
 
 ## Acknowledgements
 
